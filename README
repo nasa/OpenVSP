@@ -65,14 +65,14 @@ DEPENDENCIES
    2D Delaunay triangulator.  This routine has been included in
    this distribution.
 
-  -triInt by Tomas Moller (jgt.akpeters.com/papers/Moller97) Fast
+  -triInt by Tomas Moller [jgt.akpeters.com/papers/Moller97](http://web.archive.org/web/*/http://jgt.akpeters.com/papers/Moller97) Fast
    triangle-triangle intersection test.  This code comes from two
    sources.  The routines are included in this distribution.
 
-     jgt.akpeters.com/papers/Moller97/tritri.html
-     jgt.akpeters.com/papers/MollerTrumbore97/code.html
+     [jgt.akpeters.com/papers/Moller97/tritri.html](http://web.archive.org/web/*/http://jgt.akpeters.com/papers/Moller97/tritri.html)
+     [jgt.akpeters.com/papers/MollerTrumbore97/code.html](http://web.archive.org/web/*/http://jgt.akpeters.com/papers/MollerTrumbore97/code.html)
 
-  -glFont2 by Brad Fish (students.cs.byu.edu/~bfish/glfont2.php)
+  -glFont2 by Brad Fish [depricated](students.cs.byu.edu/~bfish/glfont2.php) [archived](http://web.archive.org/web/*/https://students.cs.byu.edu/~bfish/glfont2.php)
    2D OpenGL font tool.  glFont2 has been included in this source
    distribution.
 
